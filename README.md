@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+---
+- select 选择 展开收起动画，箭头动画，移入效果动画，点击勾选对勾颜色变化，事件传递 ；点击添加后，修改展示的数组，展示的数组里删除后需要动态的修改已勾选项目， 可以添加一个动态的计算已选项目的方法，实现勾选的控制
